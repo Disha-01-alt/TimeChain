@@ -1,0 +1,4 @@
+groq
+neo4j
+feedparser
+python-dotenv
